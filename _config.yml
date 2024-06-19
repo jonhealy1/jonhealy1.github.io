@@ -28,7 +28,7 @@ twitter_username: jonhealy111
 github_username:  jonhealy1
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
