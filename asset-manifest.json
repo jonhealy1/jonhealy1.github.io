@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c4e0aa3.css",
+    "main.js": "/static/js/main.258f5104.js",
+    "static/media/alanya-castle-wall.jpg": "/static/media/alanya-castle-wall.0300ab47bfe09e041e1f.jpg",
+    "static/media/kas-street.jpg": "/static/media/kas-street.66aac95896ea5508fa29.jpg",
+    "static/media/ghost-town-rainbow.jpg": "/static/media/ghost-town-rainbow.78ed0923bb599008815a.jpg",
+    "static/media/athens-city-sea.jpg": "/static/media/athens-city-sea.9f2ec4a4e61f3425d9f2.jpg",
+    "static/media/rhodes-windmills.jpg": "/static/media/rhodes-windmills.37b4f61ed86ba7c4f7ee.jpg",
+    "index.html": "/index.html",
+    "main.6c4e0aa3.css.map": "/static/css/main.6c4e0aa3.css.map",
+    "main.258f5104.js.map": "/static/js/main.258f5104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c4e0aa3.css",
+    "static/js/main.258f5104.js"
+  ]
+}
