@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd92ba1a.css",
-    "main.js": "/static/js/main.3630e35d.js",
+    "main.css": "/static/css/main.b1f3eca5.css",
+    "main.js": "/static/js/main.3d71679e.js",
     "static/media/alanya-castle-wall.jpg": "/static/media/alanya-castle-wall.0300ab47bfe09e041e1f.jpg",
     "static/media/kas-street.jpg": "/static/media/kas-street.66aac95896ea5508fa29.jpg",
     "static/media/ghost-town-rainbow.jpg": "/static/media/ghost-town-rainbow.78ed0923bb599008815a.jpg",
@@ -10,11 +10,11 @@
     "static/media/stacchain-smalllogo.png": "/static/media/stacchain-smalllogo.008909bb72723bc213f0.png",
     "static/media/healy-hyper-smalllogo.png": "/static/media/healy-hyper-smalllogo.6cd2be11781101b2a339.png",
     "index.html": "/index.html",
-    "main.fd92ba1a.css.map": "/static/css/main.fd92ba1a.css.map",
-    "main.3630e35d.js.map": "/static/js/main.3630e35d.js.map"
+    "main.b1f3eca5.css.map": "/static/css/main.b1f3eca5.css.map",
+    "main.3d71679e.js.map": "/static/js/main.3d71679e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd92ba1a.css",
-    "static/js/main.3630e35d.js"
+    "static/css/main.b1f3eca5.css",
+    "static/js/main.3d71679e.js"
   ]
 }
