@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.abf75b5c.css",
-    "main.js": "/static/js/main.36382ddd.js",
+    "main.js": "/static/js/main.1e697fca.js",
     "static/media/alanya-castle-wall.jpg": "/static/media/alanya-castle-wall.0300ab47bfe09e041e1f.jpg",
     "static/media/kas-street.jpg": "/static/media/kas-street.66aac95896ea5508fa29.jpg",
     "static/media/ghost-town-rainbow.jpg": "/static/media/ghost-town-rainbow.78ed0923bb599008815a.jpg",
@@ -11,10 +11,10 @@
     "static/media/healy-hyper-smalllogo.png": "/static/media/healy-hyper-smalllogo.6cd2be11781101b2a339.png",
     "index.html": "/index.html",
     "main.abf75b5c.css.map": "/static/css/main.abf75b5c.css.map",
-    "main.36382ddd.js.map": "/static/js/main.36382ddd.js.map"
+    "main.1e697fca.js.map": "/static/js/main.1e697fca.js.map"
   },
   "entrypoints": [
     "static/css/main.abf75b5c.css",
-    "static/js/main.36382ddd.js"
+    "static/js/main.1e697fca.js"
   ]
 }
