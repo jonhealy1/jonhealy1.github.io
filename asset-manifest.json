@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e47a682.css",
-    "main.js": "/static/js/main.97e27b47.js",
+    "main.css": "/static/css/main.3384f2a4.css",
+    "main.js": "/static/js/main.8ef08062.js",
     "static/media/kaputas-4.jpg": "/static/media/kaputas-4.6f7ec04e7450a1684f74.jpg",
     "static/media/kalkan-harbor-43.jpg": "/static/media/kalkan-harbor-43.497753cd6b8e77f1a594.jpg",
     "static/media/alanya-castle-wall.jpg": "/static/media/alanya-castle-wall.0300ab47bfe09e041e1f.jpg",
@@ -16,11 +16,11 @@
     "static/media/stacchain-smalllogo.png": "/static/media/stacchain-smalllogo.008909bb72723bc213f0.png",
     "static/media/healy-hyper-smalllogo.png": "/static/media/healy-hyper-smalllogo.6cd2be11781101b2a339.png",
     "index.html": "/index.html",
-    "main.3e47a682.css.map": "/static/css/main.3e47a682.css.map",
-    "main.97e27b47.js.map": "/static/js/main.97e27b47.js.map"
+    "main.3384f2a4.css.map": "/static/css/main.3384f2a4.css.map",
+    "main.8ef08062.js.map": "/static/js/main.8ef08062.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e47a682.css",
-    "static/js/main.97e27b47.js"
+    "static/css/main.3384f2a4.css",
+    "static/js/main.8ef08062.js"
   ]
 }
