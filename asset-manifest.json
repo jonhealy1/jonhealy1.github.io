@@ -1,26 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.3384f2a4.css",
-    "main.js": "/static/js/main.8ef08062.js",
+    "main.js": "/static/js/main.201b50d8.js",
     "static/media/kaputas-4.jpg": "/static/media/kaputas-4.6f7ec04e7450a1684f74.jpg",
     "static/media/kalkan-harbor-43.jpg": "/static/media/kalkan-harbor-43.497753cd6b8e77f1a594.jpg",
     "static/media/alanya-castle-wall.jpg": "/static/media/alanya-castle-wall.0300ab47bfe09e041e1f.jpg",
     "static/media/kas-street.jpg": "/static/media/kas-street.66aac95896ea5508fa29.jpg",
+    "static/media/kaputas-flowers.jpg": "/static/media/kaputas-flowers.41e4460db087c162b802.jpg",
     "static/media/langkawi-wfalls-12.jpg": "/static/media/langkawi-wfalls-12.c0dd6af87ae35270fde6.jpg",
     "static/media/macao-green-plants.jpg": "/static/media/macao-green-plants.4aca4c1def38bbc23957.jpg",
     "static/media/ghost-town-rainbow.jpg": "/static/media/ghost-town-rainbow.78ed0923bb599008815a.jpg",
     "static/media/alanya-lights-169.jpg": "/static/media/alanya-lights-169.e9fff6ddc1300be2c1a9.jpg",
     "static/media/gozo-gate-169.jpg": "/static/media/gozo-gate-169.8bba0d2d4cb374ec3f30.jpg",
     "static/media/athens-city-sea.jpg": "/static/media/athens-city-sea.9f2ec4a4e61f3425d9f2.jpg",
+    "static/media/kas-harbor.jpg": "/static/media/kas-harbor.cea71227bc58aee0283a.jpg",
     "static/media/rhodes-windmills.jpg": "/static/media/rhodes-windmills.37b4f61ed86ba7c4f7ee.jpg",
+    "static/media/cenang-sunset-916.jpg": "/static/media/cenang-sunset-916.be495ddf05aad19c23e5.jpg",
     "static/media/stacchain-smalllogo.png": "/static/media/stacchain-smalllogo.008909bb72723bc213f0.png",
     "static/media/healy-hyper-smalllogo.png": "/static/media/healy-hyper-smalllogo.6cd2be11781101b2a339.png",
     "index.html": "/index.html",
     "main.3384f2a4.css.map": "/static/css/main.3384f2a4.css.map",
-    "main.8ef08062.js.map": "/static/js/main.8ef08062.js.map"
+    "main.201b50d8.js.map": "/static/js/main.201b50d8.js.map"
   },
   "entrypoints": [
     "static/css/main.3384f2a4.css",
-    "static/js/main.8ef08062.js"
+    "static/js/main.201b50d8.js"
   ]
 }
